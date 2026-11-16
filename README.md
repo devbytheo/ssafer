@@ -96,14 +96,14 @@ WebSocket은 작업 도착 알림을 담당하며, 실제 작업 조회와 적�
 
 ## 🤝 팀 구성 및 역할
 
-| 이름 | 담당 | 주요 기여 |
+| 구분 | 담당 | 주요 기여 |
 | --- | --- | --- |
-| 유동훈 | Infrastructure | 프로젝트 일정 관리, 서버 구성·접근 제어, 배포·운영 자동화 |
-| 김건남 | Backend | 스캔·결과 API, 분석 작업 발행·상태 통지, 인증·인가 |
-| 김태영 | Backend | Local Agent 연동·패치 승인 API, 히스토리 비교, JPA 설계 |
-| 양혜지 | Full Stack | 화면·상태 관리 및 공통 UI, 실시간 진행 화면, ERD·인증 설계 참여 |
-| 김승수 | CLI | CLI 명령어·배포, 룰 엔진·마스킹, Local Agent 구현 |
-| 김은수 | AI | AI 분석 파이프라인, Agent·도구 호출, 비동기 분석 Worker |
+| 팀원 A | Infrastructure | 프로젝트 일정 관리, 서버 구성·접근 제어, 배포·운영 자동화 |
+| 팀원 B | Backend | 스캔·결과 API, 분석 작업 발행·상태 통지, 인증·인가 |
+| 본인 | Backend | Local Agent 연동·패치 승인 API, 히스토리 비교, JPA 설계 |
+| 팀원 C | Full Stack | 화면·상태 관리 및 공통 UI, 실시간 진행 화면, ERD·인증 설계 참여 |
+| 팀원 D | CLI | CLI 명령어·배포, 룰 엔진·마스킹, Local Agent 구현 |
+| 팀원 E | AI | AI 분석 파이프라인, Agent·도구 호출, 비동기 분석 Worker |
 
 ## 🚀 시작하기
 
